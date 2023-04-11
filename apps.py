@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class PollsApp2Config(AppConfig):
+class PollsApp3Config(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'polls_app2'
+    name = 'polls_app3'
